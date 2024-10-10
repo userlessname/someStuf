@@ -7,6 +7,7 @@
 // @match        *://*.youtube.com/*
 // @grant        none
 // ==/UserScript==
+// youtube.com##ytd-miniplayer
 
 (function() {
   'use strict';
